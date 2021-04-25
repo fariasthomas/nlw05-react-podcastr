@@ -2,6 +2,8 @@
   <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
+<br />
+
 <img src=".github/thumbnail.png" alt="thumbnail" />
 
 <div align="center">
