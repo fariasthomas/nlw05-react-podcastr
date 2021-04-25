@@ -12,6 +12,11 @@
   <a href="#-how-to-run">How to run</a>
 </p>
 
+<div align="center">
+  <br />
+  <img src=".github/tech-logos.png" alt="Technologies used">
+</div>
+
 ## ✨ Technologies
 
 This project was developed with the following technologies:
