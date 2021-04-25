@@ -8,16 +8,16 @@
 
 <p>
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-run">How to run</a>
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
 </p>
+
+## ✨ Technologies
 
 <div align="center">
   <br />
   <img src=".github/tech-logos.png" alt="Technologies used">
 </div>
-
-## ✨ Technologies
 
 This project was developed with the following technologies:
 
