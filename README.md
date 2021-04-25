@@ -29,18 +29,16 @@ This project was developed with the following technologies:
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/fariasthomas/nlw05-react-podcastr.git && cd podcastr
+$ git clone https://github.com/fariasthomas/nlw05-react-podcastr.git && cd nlw05-react-podcastr
 ```
 
 **Follow the steps below**
 
 ```bash
-# Install the dependencies
-$ yarn
-# Run the backend fake server
-$ yarn server
-# Run the web server
-$ yarn dev
+# Install dependencies
+$ yarn install our npm install
+# Start the project
+$ yarn dev or npm run dev
 ```
 
 The app will be available for access on your browser at `http://localhost:3000`
@@ -50,6 +48,5 @@ The app will be available for access on your browser at `http://localhost:3000`
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-<div align="center">
+
 by Thomas Farias 👋 [Check out my LinkedIn](https://www.linkedin.com/in/thomas-sf)
-</div>
